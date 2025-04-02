@@ -1232,10 +1232,10 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentXGoogleHEXAGON_WIDEBAND \
     com.fingerprints.extension \
     com.android.hotwordenrollment.common.util \
-    android.hardware.biometrics.fingerprint@2.1-service \
-    android.hardware.neuralnetworks@1.3-service-qti-hta \
-    android.hardware.neuralnetworks@1.3-service-qti \
-    manifest_android.hardware.drm@1.3-service.widevine \
-    manifest_fpc \
-    manifest_vendor.dolby.hardware.dms \
-    vendor.qti.hardware.limits@1.0-service
+    android.hardware.biometrics.fingerprint@2.1-service.xml \
+    android.hardware.neuralnetworks@1.3-service-qti-hta.xml \
+    android.hardware.neuralnetworks@1.3-service-qti.xml \
+    manifest_android.hardware.drm@1.3-service.widevine.xml \
+    manifest_fpc.xml \
+    manifest_vendor.dolby.hardware.dms.xml \
+    vendor.qti.hardware.limits@1.0-service.xml
